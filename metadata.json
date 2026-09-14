@@ -1,0 +1,6 @@
+{
+  "name": "Puerta a Puerta",
+  "description": "Plataforma integral de entrega urbana y comercio multipantalla Puerta a Puerta con seguimiento en tiempo real, tableros responsivos y gestión de cadetes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
